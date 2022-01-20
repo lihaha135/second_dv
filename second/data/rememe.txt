@@ -1,0 +1,2 @@
+first: run wjlidar_common.py
+second : run create_wjdata.py

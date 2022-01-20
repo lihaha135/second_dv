@@ -1,0 +1,6 @@
+# ninja log v5
+1	13410	1642639054289687475	/data/Documents/second_dv/build/temp.linux-x86_64-3.6/second/ops/voxel/src/voxelization_cpu.o	dfec5826519f7ed2
+1	13566	1642639054445685580	/data/Documents/second_dv/build/temp.linux-x86_64-3.6/second/ops/voxel/src/scatter_points_cpu.o	e621fd512f641746
+1	13775	1642639054657683004	/data/Documents/second_dv/build/temp.linux-x86_64-3.6/second/ops/voxel/src/scatter_points_cuda.o	cb211f4f82b93cb3
+0	14641	1642639055521672506	/data/Documents/second_dv/build/temp.linux-x86_64-3.6/second/ops/voxel/src/voxelization.o	cb49e8d69288ec7
+1	14720	1642639055601671534	/data/Documents/second_dv/build/temp.linux-x86_64-3.6/second/ops/voxel/src/voxelization_cuda.o	1b867925f2dac5b6

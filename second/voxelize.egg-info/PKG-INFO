@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: voxelize
+Version: 0.0.0
+Summary: no describe
+Home-page: UNKNOWN
+Author: cxy
+Author-email: chenxiangyang@wanji.net.cn
+License: Apache License 2.0
+Description: no describe
+Keywords: computer vision,3D object detection
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
